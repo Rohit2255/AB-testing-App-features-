@@ -73,7 +73,7 @@ Feel free to connect for collaboration, feedback, or to just geek out on Data Sc
 
 ## 🏷️ Tags
 
-`A/B Testing` `Conversion Optimization` `Z-Test` `Data Science` `Product Analytics` `Fintech` `Python` `100DaysOfFinanceDataScience`
+`A/B Testing` `Conversion Optimization` `Z-Test` `Data Science` `Product Analytics` `Fintech` `Python` `100DaysOfDataScience`
 
 ---
 
